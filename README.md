@@ -10,7 +10,7 @@
 - Covers are applied in alphabetical order.
 
 ## ⚠️ Notes:
-- The features of this extension are already included in CoverStyleSwitcher. However, I created this extension in order to allow the fastest possible way to change a game's cover.
+- The features of this extension are already included in the more advanced CoverStyleSwitcher. However, I created this extension to provide the fastest possible way to change a game's cover.
 - If you just want only a voice in the context menu (like *"Cover Change"*) apply a # at line 39 and remove the # from the line 40. 
 
 <br>
