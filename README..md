@@ -1,7 +1,7 @@
 # 🚀 CoverChange-PlayniteExtension
 *Change game covers effortlessly.*
 
-✨ This Playnite extension lets you change a game's cover in a faster way.
+✨ This Playnite extension lets you change game's cover in a faster way.
 
 ## ⚙️ How it works
 
