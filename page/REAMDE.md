@@ -1,3 +1,6 @@
+<!--[🔙 Back](https://roob-p.github.io)-->
+<!--[![🔙 Back](https://img.shields.io/badge/🔙-Back-blue)](https://roob-p.github.io)-->
+[![🔙 Back](https://img.shields.io/badge/🔙-Back-white?style=flat-square&logoColor=blue&color=blue)](https://roob-p.github.io)
 # 🚀 CoverChange-PlayniteExtension
 *Change game covers effortlessly.*
 
@@ -21,6 +24,7 @@ If you enjoy the extension, you can buy me a coffee. It will be very appreciated
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E214R1KB)
 
+- Github: [roop-p/CoverChange-PlayniteExtension](https://github.com/roob-p/CoverChange-PlayniteExtension/)
 - Install directly:
   [CoverChange](https://playnite.link/addons.html#CoverStyleSwitcher)
 - Download last version:
