@@ -1,4 +1,4 @@
-AddonId: CoverChange-PlayniteExtension
+AddonId: CoverChange
 Packages:
   - Version: 1.0.1
     RequiredApiVersion: 6.0.0
