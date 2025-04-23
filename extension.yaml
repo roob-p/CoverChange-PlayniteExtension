@@ -1,0 +1,7 @@
+﻿Id: CoverChange
+Name: CoverChange
+Author: roob-p
+Version: 1.0.1
+Module: CoverChange.psm1
+Type: Script
+Icon: icon.png
