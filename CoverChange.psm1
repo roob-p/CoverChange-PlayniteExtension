@@ -162,7 +162,7 @@ $orderedGames = $Gamesel | Sort-Object -Property Name
 foreach ($Game in $orderedGames) { 	
 
 	$path = "$($PlayniteApi.Database.DatabasePath)\Files\$($game.Id)"
-	start-process $path
+	if (test-path $path) {start-process $path}
 	
 
 }#foreach
