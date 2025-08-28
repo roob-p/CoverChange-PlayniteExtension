@@ -1,2 +1,6 @@
 .gitattributes export-ignore
 page/ export-ignore
+docs/*.* export-ignore
+docs/ export-ignore
+manifest.yaml export-ignore
+README.md export-ignore
