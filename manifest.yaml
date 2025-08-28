@@ -1,5 +1,12 @@
 AddonId: CoverChange
-Packages:
+Packages:  
+  - Version: 1.0.3
+    RequiredApiVersion: 6.0.0
+    ReleaseDate: 2025-08-28
+    PackageUrl: >-
+     https://github.com/roob-p/CoverChange-PlayniteExtension/releases/download/v1.0.3/CoverChange_v1.0.3.pext
+    Changelog:
+    - Fixed a bug where the directory did not exist when using the "Open Metadata Folder" function.
   - Version: 1.0.2
     RequiredApiVersion: 6.0.0
     ReleaseDate: 2025-08-28
