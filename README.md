@@ -24,4 +24,4 @@ If you enjoy the extension, you can buy me a coffee. It will be greatly apprecia
 - Install directly:
   [CoverChange](https://playnite.link/addons.html#CoverChange)
 - Download last version:
-[v1.0.2]( https://github.com/roob-p/CoverChange-PlayniteExtension/releases/download/v1.0.1/CoverChange_v1.0.2.pext)
+[v1.0.2]( https://github.com/roob-p/CoverChange-PlayniteExtension/releases/download/v1.0.2/CoverChange_v1.0.2.pext)
