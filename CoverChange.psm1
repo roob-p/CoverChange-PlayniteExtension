@@ -23,6 +23,17 @@ function getGameMenuItems{
 	 }else{$currentLang= "en" }
 	
 	
+		$message2 = @{
+    "it" = "Apri cartella metadata"
+    "en" = "Open metadata folder"
+    "de" = "Metadaten-Ordner öffnen"
+    "es" = "Abrir carpeta de metadatos"
+    "fr" = "Ouvrir le dossier des métadonnées"
+	}
+	
+	  if ($message2.ContainsKey($currentLang)){
+	
+	 }else{$currentLang= "en" }
 	
 	
 
@@ -35,8 +46,13 @@ function getGameMenuItems{
 	$menuItem1.Description = "Batch"
 	$menuItem1.FunctionName = "coverchange2"
 	$menuItem1.Icon = "$PSScriptRoot"+"\icon.png"
+	
+	$menuItem2 = New-Object Playnite.SDK.Plugins.ScriptGameMenuItem
+	$menuItem2.Description = $message2[$currentLang]
+	$menuItem2.FunctionName = "metadatafolder"
+	$menuItem2.Icon = "$PSScriptRoot"+"\icon.png"
     
-	return $menuItem, $menuItem1
+	return $menuItem, $menuItem1, $menuitem2
     #return $menuItem
 }
 
@@ -134,6 +150,24 @@ $i+=1
 
 
 
+function metadatafolder()
+{
+		param(
+		$getGameMenuItemsArgs
+	)
+	
+$Gamesel = $PlayniteApi.MainView.SelectedGames
+$orderedGames = $Gamesel | Sort-Object -Property Name
+
+foreach ($Game in $orderedGames) { 	
+
+	$path = "$($PlayniteApi.Database.DatabasePath)\Files\$($game.Id)"
+	start-process $path
+	
+
+}#foreach
+	
+}
 
 
 
