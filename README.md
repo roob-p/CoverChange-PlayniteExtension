@@ -10,7 +10,7 @@ Change game covers effortlessly.
 - Select `Open metadata folder` to open game's images folder.
 
 ## ⚠️ Notes:
-- The features of this extension are already included in the more advanced CoverStyleSwitcher. However, I created this extension to provide the fastest possible way to change a game's cover.
+- The features of this extension are already included in the more advanced ***CoverStyleSwitcher***. However, I created this extension to provide the fastest possible way to change a game's cover.
 - If you just want a single item in the context menu (like *"Cover Change"*) apply a # at line 55 and remove the # from the line 56. 
 
 <br>
