@@ -24,7 +24,7 @@ If you enjoy the extension, you can buy me a coffee. It will be greatly apprecia
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E214R1KB)
 
-- Github repo 🐙: [roob-p/CoverChange-PlayniteExtension](https://github.com/roob-p/CoverChange-PlayniteExtension) 
+- Github repo: 🐙 [roob-p/CoverChange-PlayniteExtension](https://github.com/roob-p/CoverChange-PlayniteExtension) 
 - Install directly:
   [CoverChange](https://playnite.link/addons.html#CoverChange)
 - Download last version:
