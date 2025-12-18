@@ -3,6 +3,7 @@
 [![🔙 Back](https://img.shields.io/badge/🔙-Back-white?style=flat-square&logoColor=blue&color=blue)](https://roob-p.github.io)
 # 🖼️ Cover Change (Playnite Extension) 
 ![GitHub Downloads](https://img.shields.io/github/downloads/roob-p/CoverChange-PlayniteExtension/total)  
+
 *Change game covers effortlessly.*
 
 ✨ This Playnite extension lets you change game covers in a faster way.
